@@ -5,3 +5,5 @@ Public frontend hosted by GitHub Pages, with Google and email/password sign-in t
 This repository contains only static frontend assets and public Firebase Web identifiers. It contains no participant records, passwords, administrative credentials, database files or PHP server code.
 
 Managers can inspect planned coverage by country, category and language, locate gaps and overlapping plans, and review proposed changes. Planned quantities are displayed separately from collected material, which is not yet recorded.
+
+The manager workspace also shows privately imported recruitment contacts by country, including people without sign-in accounts or category plans. Spreadsheet imports do not grant account access.
